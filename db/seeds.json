@@ -160,5 +160,77 @@
       "date": "2024-05-04",
       "daily_eggs": 1
     }
-  ]
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Cow",
+      "imageUrl": "https://i.pinimg.com/564x/d7/d8/3c/d7d83cf0a11793d98b5907a8afd13b21.jpg",
+      "description": "3 year old",
+      "price": 80000,
+      "location": "Kilifi"
+    },
+      {
+        "id": 2,
+        "name": "Chicken",
+        "imageUrl": "https://i.pinimg.com/564x/30/42/f4/3042f4a966af79f8d6d5c95e59c83fc1.jpg",
+        "description": "6 months old",
+        "price": "500",
+        "location": "Kakamega"
+      },
+      {
+        "id": 3,
+        "name": "tractor",
+        "imageUrl": "https://i.pinimg.com/564x/75/dc/2f/75dc2fbd793747d966cdbe42face51e5.jpg",
+        "description": "Ford Tractor",
+        "price": "2600000",
+        "location": "Kitale"
+      },
+      {
+        "id": 4,
+        "name": "Eggs",
+        "imageUrl": "https://i.pinimg.com/564x/1a/fe/d7/1afed7fe5e450b06c347bfa7810b38a3.jpg",
+        "description": "A crate of eggs",
+        "price": 450,
+        "location": "Eldoret"
+        
+      },
+      {
+        "id": 5,
+        "name": "Milk",
+        "imageUrl": "https://i.pinimg.com/564x/5e/14/52/5e14526b4290b95c0bed550cf004d7f6.jpg",
+        "description": "fresh milk",
+        "price": "150 ",
+        "location": "Eldoret"
+        
+      },
+      {
+        "id": 6,
+        "name": "Fertilizer",
+        "imageUrl": "https://i.pinimg.com/564x/dd/7e/1c/dd7e1ce0e31d33adfabd66934b999cb5.jpg",
+        "description": "DAP Fertlizer",
+        "price": "3000",
+        "location": "Eldoret"
+        
+      },
+      {
+        "id": 7,
+        "name": "Maize Seed",
+        "imageUrl": "https://i.pinimg.com/564x/75/69/87/756987113da38d16783db702353b87b3.jpg",
+        "description": "A packet of maize seed",
+        "price": "1500",
+        "location": "Eldoret"
+        
+      },
+
+         {
+        "id": 8,
+        "name": "Pesticide",
+        "imageUrl": "https://i.pinimg.com/564x/3e/b4/5a/3eb45a8f5edc24960403124305804284.jpg",
+        "description": "Best pest killer",
+        "price": "150 ",
+        "location": "Eldoret"
+        
+      }  
+  ]  
 }
