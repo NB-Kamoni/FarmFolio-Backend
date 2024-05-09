@@ -274,5 +274,147 @@
     "specializations": ["Exotic Animals", "Beef Cattle", "Dairy Cattle"],
     "license": "VET99807"
   }
+],
+"cows": [
+  {
+    "id": 1,
+    "age_months": 21,
+    "weight_kg": 360,
+    "daily_milk_production_g": 2800,
+    "feedType": "Grass"
+  },
+  {
+    "id": 2,
+    "age_months": 25,
+    "weight_kg": 320,
+    "daily_milk_production_g": 2400,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 3,
+    "age_months": 24,
+    "weight_kg": 318,
+    "daily_milk_production_g": 2660,
+    "feedType": "Hay"
+  },
+  {
+    "id": 4,
+    "age_months": 16,
+    "weight_kg": 327,
+    "daily_milk_production_g": 2760,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 5,
+    "age_months": 20,
+    "weight_kg": 350,
+    "daily_milk_production_g": 2550,
+    "feedType": "Grass"
+  },
+  {
+    "id": 6,
+    "age_months": 30,
+    "weight_kg": 390,
+    "daily_milk_production_g": 2730,
+    "feedType": "Hay"
+  },
+  {
+    "id": 7,
+    "age_months": 27,
+    "weight_kg": 364,
+    "daily_milk_production_g": 3300,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 8,
+    "age_months": 40,
+    "weight_kg": 390,
+    "daily_milk_production_g": 4000,
+    "feedType": "Grass"
+  },
+  {
+    "id": 9,
+    "age_months": 17,
+    "weight_kg": 310,
+    "daily_milk_production_g": 2200,
+    "feedType": "Hay"
+  },
+  {
+    "id": 10,
+    "age_months": 22,
+    "weight_kg": 370,
+    "daily_milk_production_g": 3500,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 11,
+    "age_months": 16,
+    "weight_kg": 340,
+    "daily_milk_production_g": 3700,
+    "feedType": "Grass"
+  },
+  {
+    "id": 12,
+    "age_months": 35,
+    "weight_kg": 380,
+    "daily_milk_production_g": 3500,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 13,
+    "age_months": 27,
+    "weight_kg": 380,
+    "daily_milk_production_g": 3200,
+    "feedType": "Hay"
+  },
+  {
+    "id": 14,
+    "age_months": 25,
+    "weight_kg": 380,
+    "daily_milk_production_g": 2700,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 15,
+    "age_months": 23,
+    "weight_kg": 354,
+    "daily_milk_production_g": 3800,
+    "feedType": "Grass"
+  },
+  {
+    "id": 16,
+    "age_months": 20,
+    "weight_kg": 310,
+    "daily_milk_production_g": 1950,
+    "feedType": "Hay"
+  },
+  {
+    "id": 17,
+    "age_months": 20,
+    "weight_kg": 325,
+    "daily_milk_production_g": 2300,
+    "feed_type": "Grain"
+  },
+  {
+    "id": 18,
+    "age_months": 26,
+    "weight_kg": 360,
+    "daily_milk_production_g": 2800,
+    "feedType": "Grass"
+  },
+  {
+    "id": 19,
+    "age_months": 18,
+    "weight_kg": 330,
+    "daily_milk_production_g": 2000,
+    "feedType": "Hay"
+  },
+  {
+    "id": 20,
+    "age_months": 12,
+    "weight_kg": 350,
+    "daily_milk_production_g": 2500,
+    "feed_type": "Grain"
+  }
 ]
 }
