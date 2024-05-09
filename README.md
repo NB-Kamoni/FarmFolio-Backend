@@ -33,7 +33,7 @@ Since this server is for testing and prototyping, you can reset the data to its 
 Feel free to reset the data to its initial state through:
 
 ```
-npm run seed
+
 
 ```
 
