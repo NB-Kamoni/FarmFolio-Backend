@@ -43,7 +43,7 @@
     {
       "id": 6,
       "age_months": 11,
-      "weight_kg": 2.0,
+      "weight_kg": 2,
       "total_eggs": 19,
       "date": "2024-05-04",
       "daily_eggs": 2
@@ -91,7 +91,7 @@
     {
       "id": 12,
       "age_months": 18,
-      "weight_kg": 3.0,
+      "weight_kg": 3,
       "total_eggs": 28,
       "date": "2024-05-04",
       "daily_eggs": 4
@@ -155,54 +155,10 @@
     {
       "id": 20,
       "age_months": 12,
-      "weight_kg": 2.0,
+      "weight_kg": 2,
       "total_eggs": 20,
       "date": "2024-05-04",
       "daily_eggs": 1
     }
-  ],
-  "veterinarians": [
-  {
-    "id": 1,
-    "name": "Dr. John Smith",
-    "contact": "john.smith@example.com",
-    "phone": "+1234567890",
-    "specializations": ["Beef Cattle", "Dairy Cattle", "Poultry"],
-    "license": "VET12345"
-  },
-  {
-    "id": 2,
-    "name": "Dr. Emily Johnson",
-    "contact": "emily.johnson@example.com",
-    "phone": "+1987654321",
-    "specializations": ["Beef Cattle", "Dairy Cattle", "Poultry"],
-    "license": "VET54321"
-  },
-  {
-    "id": 3,
-    "name": "Dr. Sarah Lee",
-    "contact": "sarah.lee@example.com",
-    "phone": "+1122334455",
-    "specializations": ["Poultry", "Dairy Cattle"],
-    "license": "VET67890"
-  },
-  {
-    "id": 4,
-    "name": "Dr. Michael Brown",
-    "contact": "michael.brown@example.com",
-    "phone": "+3344556677",
-    "specializations": ["Beef Cattle", "Sheep"],
-    "license": "VET11223"
-    },
-  {
-    "id": 5,
-    "name": "Dr. Maria Garcia",
-    "contact": "maria.garcia@example.com",
-    "phone": "+5566778899",
-    "specializations": ["Exotic Animals", "Beef Cattle", "Dairy Cattle"],
-    "license": "VET99807"
-  }
-]
-  
+  ]
 }
-
