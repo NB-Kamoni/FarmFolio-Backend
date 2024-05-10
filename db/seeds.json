@@ -133,7 +133,8 @@
     "feed": "Grain"
   }
 ],
-[
+
+"products": [ 
   {
     "id": 1,
     "name": "Cow",
@@ -199,7 +200,7 @@
     "location": "Eldoret"
   }
 ],
-[
+ "veterinarians": [
   {
     "id": 1,
     "name": "Dr. John Smith",
