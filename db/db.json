@@ -277,6 +277,7 @@
 ],
 "cows": [
   {
+    "date": "2024-05-17",
     "id": 1,
     "name": "Tom",
     "age": 24,
@@ -285,6 +286,7 @@
     "feed": "Grass"
   },
   {
+    "date": "2024-05-17",
     "id": 2,
     "name": "Jerry",
     "age": 30,
@@ -293,6 +295,7 @@
     "feed": "Hay"
   },
   {
+    "date": "2024-05-17",
     "id": 3,
     "name": "Lucy",
     "age": 18,
@@ -301,6 +304,7 @@
     "feed": "Silage"
   },
   {
+    "date": "2024-05-17",
     "id": 4,
     "name": "Bella",
     "age": 36,
@@ -309,6 +313,7 @@
     "feed": "Grain"
   },
   {
+    "date": "2024-05-17",
     "id": 5,
     "name": "Luna",
     "age": 22,
@@ -317,6 +322,7 @@
     "feed": "Grass"
   },
   {
+    "date": "2024-05-17",
     "id": 6,
     "name": "Max",
     "age": 26,
@@ -325,6 +331,7 @@
     "feed": "Hay"
   },
   {
+    "date": "2024-05-17",
     "id": 7,
     "name": "Charlie",
     "age": 32,
@@ -333,6 +340,7 @@
     "feed": "Silage"
   },
   {
+    "date": "2024-05-17",
     "id": 8,
     "name": "Molly",
     "age": 28,
@@ -341,6 +349,7 @@
     "feed": "Grain"
   },
   {
+    "date": "2024-05-17",
     "id": 9,
     "name": "Sadie",
     "age": 20,
@@ -349,6 +358,7 @@
     "feed": "Grass"
   },
   {
+    "date": "2024-05-17",
     "id": 10,
     "name": "Oscar",
     "age": 40,
