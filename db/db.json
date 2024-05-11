@@ -1,5 +1,5 @@
 {
-  "chicken": [
+  "chickens": [
     {
       "id": 1,
       "age_months": 12,
@@ -236,6 +236,7 @@
   "veterinarians": [
   {
     "id": 1,
+    "imageUrl": "https://media.istockphoto.com/id/1189303662/photo/portrait-of-happy-african-doctor-at-private-clinic.jpg?s=612x612&w=0&k=20&c=P1sA44uF-qI-8Ox5iv4j7dMThSB9trT_QPjYdS13sKo=",
     "name": "Dr. John Smith",
     "contact": "john.smith@example.com",
     "phone": "+1234567890",
@@ -244,6 +245,7 @@
   },
   {
     "id": 2,
+    "imageUrl": "https://img.freepik.com/free-photo/ill-puppy-x-ray-image_329181-10408.jpg",
     "name": "Dr. Emily Johnson",
     "contact": "emily.johnson@example.com",
     "phone": "+1987654321",
@@ -252,6 +254,7 @@
   },
   {
     "id": 3,
+    "imageUrl": "https://vetmed.illinois.edu/wp-content/uploads/2022/02/johnson-walker-feature.jpg",
     "name": "Dr. Sarah Lee",
     "contact": "sarah.lee@example.com",
     "phone": "+1122334455",
@@ -260,6 +263,7 @@
   },
   {
     "id": 4,
+    "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F00%2F90%2F13%2F54%2F360_F_90135478_lxK4uE9obbedwV0IRjEC0thl5yU94Ngg.jpg&tbnid=e3KReuLHLIElTM&vet=12ahUKEwjQrKO_rYSGAxXX-AIHHYVXCSsQxiAoB3oECAAQMg..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dcow%2Bdoctor&docid=7MXGKvyb_gwpeM&w=540&h=360&itg=1&q=veterinary%20doctor%20image&hl=en&ved=2ahUKEwjQrKO_rYSGAxXX-AIHHYVXCSsQxiAoB3oECAAQMg",
     "name": "Dr. Michael Brown",
     "contact": "michael.brown@example.com",
     "phone": "+3344556677",
@@ -268,6 +272,7 @@
     },
   {
     "id": 5,
+    "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2F2N6RWRY%2Fvet-doctor-or-black-woman-with-cattle-farming-agriculture-or-food-industry-for-healthcare-check-inspection-and-portrait-professional-african-person-2N6RWRY.jpg&tbnid=P0iHXks_QkOwaM&vet=12ahUKEwjv6-6vroSGAxWFGhAIHX8OBLwQMygDegQIARA8..i&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fvet-doctor-or-black-woman-with-cattle-farming-agriculture-or-food-industry-for-healthcare-check-inspection-and-portrait-professional-african-person-image520524143.html&docid=mSn5HUL9khCx2M&w=1300&h=946&q=veterinary%20doctor%20image%20cow%20female&hl=en&ved=2ahUKEwjv6-6vroSGAxWFGhAIHX8OBLwQMygDegQIARA8",
     "name": "Dr. Maria Garcia",
     "contact": "maria.garcia@example.com",
     "phone": "+5566778899",
